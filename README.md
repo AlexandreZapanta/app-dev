@@ -1,7 +1,9 @@
 # app-dev
 My first Respository
-1. Vcut 
-2. Nova
-3. Mang Juan
-   ""
-   [This is so delicious 😋]
+>
+**MyFavoriteSeries**
+1. Naruto
+2. Koruko Basketball
+3. Major 
+
+   
