@@ -4,10 +4,3 @@ My first Respository
 2. Nova
 3. Mang Juan
    This is so delicious 😋
-
-{
-  "FirstName": Alexandre Marc",
-  "LastName": "Zapanta",
-  "Age": 22
-}
-   
